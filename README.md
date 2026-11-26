@@ -5,11 +5,7 @@ Um guia simples para ajudar quem está começando a estudar na escola. As inform
 ## Índice
 
 - [Horários](horarios.md)
-- [Mapa da escola](mapa-da-escola.md)
 - [Dicas de estudo](dicas-de-estudo.md)
-- [Regras de convivência](regras-de-convivencia.md)
-- [Clubes e atividades](clubes-e-atividades.md)
-- [Contatos úteis](contatos-uteis.md)
 
 ## Equipe
 
